@@ -33,7 +33,7 @@ def func_palindrome(s):
 
 if __name__=='__main__':
     
-    s= 'level'
+    s= 'hanah'
     print(func_palindrome(s))
     
      
